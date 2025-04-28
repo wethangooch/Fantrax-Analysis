@@ -1,0 +1,7 @@
+Do chromedriver/selenium login
+
+Login using cookies with requests
+
+Scrape Data
+
+Other stuff...
